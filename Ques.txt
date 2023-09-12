@@ -1,0 +1,21 @@
+Decide a step-by-step plan that you will take to complete the project. The plan could be
+simply how you plan to do each part of the project, a, b . Part-2 -
+Project After having created Questions Mind Maps as needed and submitted the project
+PLAN, you would be in a position to complete the project step-by-step:Part 2: For. 20
+marks; complete the project and write up and submit by August 22, 2023, midnight. (20
+marks) ----- Case Study: Imagine that a few students of SETS have decided to open a
+Students Savings Bank called "Shomobaey Puji". The idea is that the student members
+save a minimum of Tk.2000/- per calendar month. When a student has paid a total of
+Tk.12,000/-, they can withdraw upto Tk.10,000/- as capital for starting a small business.
+Imagine that you have been given the job of managing the savings collection for the
+"Shomobaey Puji" for the students of IUB. You are to design a software to launch this Bank
+by allowing THREE different types of software operations.
+1. Withdrawal of Tk.10,000/- of a member who has saved at least Tk.12,000/- and update
+balance.
+2. Total of all savings made by the members 3. Collect fees Tk.2000/- update and print
+receipt for a member Assignment:
+a. For 1. and for ONE other prepare a flowchart for each. 
+b. Create savings register details of 10 students - as a minimum include student ID as
+membership number, Name, money saved (Assume any THREE students have already
+paid Tk. 10,000, Tk.12,000 and Tk.14,000/-). Prepare a python 2D LIST statement with the
+details
